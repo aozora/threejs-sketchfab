@@ -71,6 +71,7 @@ class SketchfabIntegration {
 
 
   authenticate() {
+    console.log('opening AUTHENTICATION_URL: ', AUTHENTICATION_URL);
     window.open(AUTHENTICATION_URL, '_blank');
   }
 
