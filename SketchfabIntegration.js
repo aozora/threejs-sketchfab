@@ -1,5 +1,5 @@
 const CLIENT_ID = '8VjDtdXhfyC2mgSr9CGm6pZCmwB7aGn3mhM3BV8V';
-const AUTHENTICATION_URL = `https://sketchfab.com/oauth2/authorize/?state=123456789&response_type=token&client_id=${CLIENT_ID}`;
+const AUTHENTICATION_URL = `https://sketchfab.com/oauth2/authorize/?state=987654321&response_type=token&client_id=${CLIENT_ID}`;
 import JSZip from "jszip";
 import * as THREE from "three";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
